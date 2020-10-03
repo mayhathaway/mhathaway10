@@ -3,3 +3,9 @@ SoftDev
 K08 -- Cross Pollination and Virtual Insanity -- Q/C/C from K07
 2020-10-06
 
+Team Nintentoads: very helpful and thorough comments
+Team Burgers: good approach to splitting by quotes/commas
+Team Blue Bird: made a 2D array first
+Team Windows 9: asked for user input, which was cool
+Team TLK: code was very concise, a little confusing because there weren't many comments
+Team Summer Jam: explained weighting system in random.choice really well
