@@ -1,0 +1,17 @@
+Team Smooth Brain: May Hathaway, Helena Williams, Ryan Ma
+SoftDev
+K08 -- Cross Pollination and Virtual Insanity -- observed $ python3 -m venv ~/myherozero
+2020-10-06
+
+$ python3 -m venv ~/myherozero
+
+-m means module
+venv is a module to set up a virtual environment
+a virtual environment can be used to develop Python applications
+in the command given above, ~/myherozero would be the target directory
+running the command would create a new directory called myherozero
+this directory contains 3 directories inside it (bin, include, lib) and it also contains pyvenv.cfg
+
+sources:
+https://docs.python.org/3/library/venv.html
+https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment
