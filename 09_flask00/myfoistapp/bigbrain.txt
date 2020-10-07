@@ -1,0 +1,25 @@
+Team Smooth Brain - Helena Williams, May Hathaway, Ryan Ma
+SoftDev
+K09 -- Simple Path to Greatness -- flasking for the first time!
+2020-10-06
+
+Q0: Where have you seen similar syntax in other langs?
+This be lookin a lot like Python chief, although we did notice what we suspected was Java-like typecasting
+
+Q1: What points of reference do you have for meaning of '/'?
+In the terminal, it's the start of a file path! Since there is no path currently, maybe we'll just stay in this directory?
+
+Q2: Where will this print to? Q2.5: What will it print?
+Our best guess is the terminal, because when you run stuff, it does generally tend to print in the terminal
+As for what it will print, our primary guess is the name of the current module (after some non-Stack Overflow research)
+
+POST-RUNNING: Surprise! It's a webpage with "No hablo queso!" on it! And it turns out the print statement didn't appear anywhere... but the queso did!
+
+Q3: Will this appear anywhere? How u know?
+The return command in python tends to require you to then print the output, so we don't think it will appear.
+We can't say for sure since none of us have used apps before!
+
+POST-RUNNING: Well, it looks like things that get returned end up on the page!
+
+Q4: Where have you seen similar construcs in other languages?
+Java! I guess Arduino?
