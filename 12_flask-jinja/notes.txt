@@ -1,0 +1,25 @@
+Team Smooth Brain - Helena Williams, May Hathaway, Ryan Ma
+SoftDev
+K12 -- ...or The Only Constant is Change?: jinja explorations
+2020-10-13
+
+Notes:
+-okay so we're having issues getting the template file to run, we can't seem to
+figure out why. (Not Found error)
+DEBUGGING LIST:
+- We put working code in the same area, but it still returned not found.
+- We moved template file out
+(we eventually found it because we didn't grab the right app.py file, rip)
+
+Q0: When we removed render_template... it worked? This seems like an issue on
+our side, but maybe it's just 100% useless. :P
+
+Q1: nope we definitely cannot, this was what took us a while, because I forgot
+how to read app.route
+
+Q2: First, model_tmplt.html is the name of the file we're grabbing! Then it looks like
+the foooooooooooooooo appears as the name of the site. And finally, coll is that array
+hiding in plain sight. Now, what all of these do is they seem to act as arguments!
+We have a foo variable and a coll variable in the model_tmplt file, and it seems that
+they take on the values given by app.py.
+very interesting indeed...

@@ -1,0 +1,12 @@
+Team Smooth Brain - Helena Williams, May Hathaway, Ryan Ma
+SoftDev
+K11 -- Some Things Never Change: doin' flask but with html (and totally some css too)
+2020-10-13
+
+Our Predictions:
+-HOPEFULLY it functions, but we could end up with an error
+
+After The Fact:
+So, it downloads a copy of foo, which is cool, but not really the intended effect.
+However, when we run foo.html, flask hosts it as a website! Woohoo!
+This means that we could host other things, like fancypants projects...
